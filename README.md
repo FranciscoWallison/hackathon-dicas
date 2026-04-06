@@ -1,179 +1,267 @@
-<br />
-    <h1 align="center">Dicas para hackathon</h1>
-    
-![](https://i.imgur.com/x4vdxsJ.jpeg)
- 
+<p align="center">
+  <img src="https://i.imgur.com/x4vdxsJ.jpeg" alt="Hackathon Dicas" width="600"/>
+</p>
 
+<h1 align="center">Dicas para Hackathon</h1>
 
-# Fique por dentro dos próximos hackathons
+<p align="center">
+  Uma curadoria colaborativa de ferramentas, recursos e boas práticas para mandar bem em hackathons — do planejamento ao pitch final.
+</p>
 
-## [Clique aqui](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md) para saber dos próximos hackas
+<p align="center">
+  <a href="#-próximos-hackathons">Hackathons</a> •
+  <a href="#-antes-de-começar">Antes de começar</a> •
+  <a href="#-ícones-e-imagens">Imagens</a> •
+  <a href="#-fontes">Fontes</a> •
+  <a href="#-cores">Cores</a> •
+  <a href="#-gerenciamento-e-colaboração">Gestão</a> •
+  <a href="#-design-e-prototipação">Design</a> •
+  <a href="#-apis">APIs</a> •
+  <a href="#-modelagem-de-negócio">Negócio</a> •
+  <a href="#-gravação-e-edição-de-vídeo">Vídeo</a> •
+  <a href="#-dashboards">Dashboards</a> •
+  <a href="#-ferramentas-para-devs">Devs</a> •
+  <a href="#-livros-recomendados">Livros</a> •
+  <a href="#-como-contribuir">Contribuir</a>
+</p>
 
-## :checkered_flag: Índice
+---
 
-- [Fique por dentro dos próximos hackathons](#fique-por-dentro-dos-próximos-hackathons)
-- [Ícones e imagens](#camera-ícones-e-imagens)
-- [Fontes](#abc-fontes)
-- [Cores](#art-cores)
-- [Gerenciamento de atividades e colaboração](#file_folder-gerenciamento-de-atividades-e-colaboração)
-- [Design e prototipação](#iphone-design-e-prototipação)
-- [APIS](#computer-apis)
-- [Modelagem de negócio](#bulb-modelagem-de-negócio)
-- [Gravar tela](#movie_camera-gravar-tela)
-- [Edicao de video](#clapper-edicao-de-video)
-- [Animação](#pencil2-animação)
-- [Dashboards](#bar_chart-dashboards)
-- [Devs](#woman_technologist-devs)
-- [Livros](#books-livros)
-- [Como contribuir](#rocket-como-contribuir)
+## 📅 Próximos hackathons
 
-## :camera: Ícones e imagens
- 
- - [Unsplash](https://unsplash.com/)
- - [Undraw](https://undraw.co/)
- - [Freepik](https://br.freepik.com/)
- - [Icons8](https://icons8.com.br/)
- - [Many Pixels](https://manypixels.co)
- - [Mixkit](https://mixkit.co/)
- - [Flaticon](https://flaticon.com)
- - [Pixabay](https://pixabay.com/pt/)
- - [Pexels](https://www.pexels.com/pt-br/)
- - [Gratisography](https://gratisography.com/)
- - [Nappy](https://www.nappy.co/)
- - [The noun project](https://thenounproject.com/)
- - [CleanPng](https://www.cleanpng.com/)
- - [Black ilustrations](https://gumroad.com/l/UafDk)
- - [Lottieflow](https://www.lottieflow.com/)
- - [Ape Tools - Gerador de icons e splashscreens](https://apetools.webprofusion.com/#/)
+➡️ [Confira a lista atualizada de hackathons](https://github.com/Lorenalgm/hackathon-dicas/blob/master/hackatons.md)
 
-## :abc: Fontes
- - [Font Squirrel](https://www.fontsquirrel.com/)
- - [Google fontes](https://fonts.google.com/)
- - [Beautiful Web Type](https://beautifulwebtype.com) 
- - [Brick](https://github.com/alfredxing/brick)
- - [Font Fabric](http://www.fontfabric.com/category/free/) 
- - [Impallari](http://www.impallari.com/) 
- - [Open Type Foundry](http://open-foundry.com/hot30) 
- - [The League of Movable Type](https://www.theleagueofmoveabletype.com/) 
- - [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) 
- - [Font Meme](https://fontmeme.com/)
+---
 
-## :art: Cores
- - [Web Gradients](https://webgradients.com/)
- - [Pigment](https://pigment.shapefactory.co/)
- - [Color Hunt](https://colorhunt.co/)
- - [Flat ui colors](https://flatuicolors.com/)
- - [Coolors](https://coolors.co/)
+## 🧭 Antes de começar
 
-## :file_folder: Gerenciamento de atividades e colaboração
- - [Trello](https://trello.com/pt-BR)
- - [Asana](https://asana.com/pt)
- - [Miro](https://miro.com/)
- - [Notion](https://notion.so/)
- - [Whimsical](https://whimsical.com/)
- - [Google docs](https://docs.google.com/)
- - [Pomodoro](http://pomodorotechnique.com/)
- - [Kanban](https://www.meuscrum.com/pt)
- - [Scrum](https://kanbantool.com/pt/quadro-scrum-online)
- - [Slack](https://slack.com/)
- - [AWW App](https://awwapp.com/)
- - [Linear](https://linear.app/)
- - [Jira](https://www.atlassian.com/software/jira)
+Algumas dicas rápidas que fazem diferença na hora H:
 
+- **Monte o time com perfis complementares** — dev, design, negócio e, se possível, alguém com domínio no tema do desafio.
+- **Valide a ideia antes de codar** — converse com mentores, entenda o problema real e só então parta para a solução.
+- **Defina um MVP realista** — é melhor entregar algo funcional e bem apresentado do que um projeto ambicioso pela metade.
+- **Prepare o pitch desde o início** — reserve tempo para montar a apresentação; o pitch vale tanto quanto o produto.
+- **Documente tudo** — README, screenshots, arquitetura. Os jurados vão avaliar o repositório.
+- **Cuide da saúde** — coma, hidrate-se, durma um pouco. Maratonas só funcionam se o time estiver lúcido.
 
-## :iphone: Design e prototipação
-- [open-pencil](https://github.com/open-pencil/open-pencil)
-- [Figma](https://www.figma.com/)
-- [Adobe XD](https://www.adobe.com/br/products/xd.html) 
-- [Marvel App](https://marvelapp.com/)
-- [Invision App](https://www.invisionapp.com/)
-- [Framer](https://framer.com/projects/)
-- [SitePX](http://www.sitepx.com/)
-- [Pidoco](https://pidoco.com/en)
-- [Mockflow](https://www.mockflow.com/)
-- [Knownly](https://www.knownly.net/)
-- [Unbounce](http://unbounce.com/)
-- [Hotgloo](http://www.hotgloo.com/)
-- [POP app](https://popapp.in/)
-- [Invision](http://www.invisionapp.com/)
-- [Balsamiq](https://balsamiq.com/)
-- [AngelList](https://angel.co/)
-- [Spark](https://spark.adobe.com/pt-BR/about)
-- [QuantUX](https://www.quant-ux.com/#/)
-- [Storybook](https://storybook.js.org/)
+---
 
-## :computer: APIS
-- [Public APIs](https://github.com/public-apis/public-apis)
-- [Api List](https://apilist.fun/)
-- [Rapidapi](https://rapidapi.com/)
-- [Zapier](https://zapier.com/)
-- [mockAPI](https://mockapi.io/)
-- [JSON Server](https://github.com/typicode/json-server)
+## 🖼️ Ícones e imagens
 
-## :bulb: Modelagem de negócio
- - [Sebrae Canvas](https://sebraecanvas.com/)
- - [Lean Canvas](https://goo.gl/3kL7si)
- - [Value Proposition Canvas](https://goo.gl/uGxHoX)
- - [Biz Model Canvas](https://goo.gl/MsURRf)
- - [Experiment Board](https://goo.gl/Vr8Ysr)
- - [Empathy Board](https://goo.gl/01Hvq4)
- - [Crunchbase](https://www.crunchbase.com/)
- - [ProductHunt](https://www.producthunt.com/)
+| Recurso | Descrição |
+|---|---|
+| [Unsplash](https://unsplash.com/) | Fotos de alta resolução, gratuitas e sem restrição de uso |
+| [Undraw](https://undraw.co/) | Ilustrações open-source com cores customizáveis |
+| [Freepik](https://br.freepik.com/) | Vetores, fotos e PSD (atribuição necessária no plano gratuito) |
+| [Icons8](https://icons8.com.br/) | Ícones consistentes em diversos estilos e formatos |
+| [ManyPixels](https://manypixels.co) | Ilustrações gratuitas para projetos comerciais e pessoais |
+| [Mixkit](https://mixkit.co/) | Vídeos, músicas e ilustrações gratuitas |
+| [Flaticon](https://flaticon.com) | Maior banco de ícones vetoriais gratuitos |
+| [Pixabay](https://pixabay.com/pt/) | Banco de imagens e vídeos livres de direitos |
+| [Pexels](https://www.pexels.com/pt-br/) | Fotos e vídeos de alta qualidade, todos gratuitos |
+| [Gratisography](https://gratisography.com/) | Fotos criativas e inusitadas sem copyright |
+| [Nappy](https://www.nappy.co/) | Fotos diversas e inclusivas, gratuitas |
+| [The Noun Project](https://thenounproject.com/) | Ícones e fotos com curadoria para qualquer conceito |
+| [CleanPNG](https://www.cleanpng.com/) | Imagens PNG com fundo transparente |
+| [Black Illustrations](https://gumroad.com/l/UafDk) | Ilustrações com representatividade negra |
+| [Lottieflow](https://www.lottieflow.com/) | Animações Lottie prontas para uso em web e mobile |
+| [Ape Tools](https://apetools.webprofusion.com/#/) | Gerador de ícones e splash screens para apps |
+| [Lucide](https://lucide.dev/) | Ícones open-source leves e customizáveis |
+| [Heroicons](https://heroicons.com/) | Ícones SVG feitos pela equipe do Tailwind CSS |
 
+---
 
-## :movie_camera: Gravar tela 
- - [Loom](https://www.loom.com/)
- - [Rawshorts](https://www.rawshorts.com/)
- - [Obs](https://obsproject.com/pt-br/download)
- - [Peek](https://github.com/phw/peek)
- - [Vidyard](https://www.vidyard.com/)
- 
-## :clapper: Edicao de video
- - [Adobe After Effects](https://www.adobe.com/br/products/aftereffects.html)
- - [Adobe Premiere](www.adobe.com/br/products/premiere.html)
- - [Sony Vegas Pro](https://www.vegascreativesoftware.com/br/vegas-pro/)
- - [DaVinci resolve](https://www.blackmagicdesign.com/br/products/davinciresolve/)
+## 🔤 Fontes
 
-## :pencil2: Animação
- - [Powtoon](https://www.powtoon.com/)
+| Recurso | Descrição |
+|---|---|
+| [Google Fonts](https://fonts.google.com/) | Catálogo oficial do Google com centenas de fontes gratuitas |
+| [Font Squirrel](https://www.fontsquirrel.com/) | Fontes 100% gratuitas para uso comercial |
+| [Beautiful Web Type](https://beautifulwebtype.com) | Curadoria das melhores fontes do Google Fonts |
+| [Font Fabric](http://www.fontfabric.com/category/free/) | Fontes de alta qualidade com opções gratuitas |
+| [Canva Font Combinations](https://www.canva.com/font-combinations/) | Sugestões de combinações tipográficas |
+| [Font Meme](https://fontmeme.com/) | Gerador de textos estilizados e identificador de fontes |
+| [The League of Movable Type](https://www.theleagueofmoveabletype.com/) | As primeiras fontes open-source de qualidade |
 
+---
 
-## :bar_chart: Dashboards
- - [Google Data Studio](https://datastudio.google.com/u/0/)
- - [Metabase](https://www.metabase.com/)
- - [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/desktop/)
- 
- 
-## :woman_technologist: Devs
- - [4Devs - Ferramentas Online](https://www.4devs.com.br/)
- - [Regex101 - Depurador de expressão regular](https://regex101.com/)
- - [Beekeeper Studio](https://www.beekeeperstudio.io/)
- - [Gitkraken](https://www.gitkraken.com/) 
- - [WakaTime](https://wakatime.com/)
- - [Hyper](https://hyper.is/)
- - [Responsively - A Web Developer Browser](https://responsively.app/)
+## 🎨 Cores
 
-### Editor de texto
-  - [Visual Studio Code](https://code.visualstudio.com/)
-  - [Sublime Text](https://www.sublimetext.com/)
-  
- ### API
- - [Insomnia](https://insomnia.rest/download)
- - [Postman](https://www.postman.com/)
- 
- ### Deploy
- - [Heroku](https://www.heroku.com/)
- - [Vercel](https://vercel.com/)
- - [Netlify](https://www.netlify.com/)
+| Recurso | Descrição |
+|---|---|
+| [Coolors](https://coolors.co/) | Gerador de paletas rápido e intuitivo |
+| [Color Hunt](https://colorhunt.co/) | Paletas criadas e votadas pela comunidade |
+| [Web Gradients](https://webgradients.com/) | Coleção de gradientes prontos para CSS |
+| [Pigment](https://pigment.shapefactory.co/) | Paletas de cores com pré-visualização em layouts reais |
+| [Flat UI Colors](https://flatuicolors.com/) | Paletas de cores no estilo flat design |
+| [Realtime Colors](https://www.realtimecolors.com/) | Visualize sua paleta aplicada a um layout em tempo real |
 
-## :books: Livros
- - O Pitch (quase) Perfeito
- - Hackathons Unboxed: A Field Guide to Ideating, Leading and Winning
+---
 
-## :rocket: Como contribuir
-Deseja contribuir com este repositório?
-- 1 - Faça o fork do projeto
-- 2 - Atualize o readme com novas dicas ou novos hackathons que vão acontecer durante o ano
-- 3 - Envie sua pull request
-   
-  - Licença da imagem [FreePik](https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm#page=1&query=hackathon&position=12)
+## 📂 Gerenciamento e colaboração
+
+| Recurso | Descrição |
+|---|---|
+| [Notion](https://notion.so/) | Workspace all-in-one: docs, kanban, wikis e banco de dados |
+| [Trello](https://trello.com/pt-BR) | Quadros kanban simples e visuais |
+| [Linear](https://linear.app/) | Gestão de issues rápida e moderna (ótimo para devs) |
+| [Miro](https://miro.com/) | Quadro branco colaborativo para brainstorming |
+| [Whimsical](https://whimsical.com/) | Flowcharts, wireframes e mapas mentais |
+| [Google Docs](https://docs.google.com/) | Documentos colaborativos em tempo real |
+| [Slack](https://slack.com/) | Comunicação em canais para times |
+| [Jira](https://www.atlassian.com/software/jira) | Gestão de projetos ágeis (Scrum/Kanban) |
+| [AWW App](https://awwapp.com/) | Quadro branco online simples para sessões rápidas |
+
+> 💡 **Dica de produtividade:** use a técnica [Pomodoro](http://pomodorotechnique.com/) — ciclos de 25 min de foco + 5 min de pausa — para manter o ritmo sem burnout.
+
+---
+
+## 📱 Design e prototipação
+
+| Recurso | Descrição |
+|---|---|
+| [Figma](https://www.figma.com/) | A ferramenta padrão de mercado para design colaborativo |
+| [Framer](https://framer.com/) | Prototipação avançada com interações e animações |
+| [Balsamiq](https://balsamiq.com/) | Wireframes estilo rascunho, ótimo para validar ideias rápido |
+| [Marvel App](https://marvelapp.com/) | Protótipos interativos a partir de telas estáticas |
+| [Storybook](https://storybook.js.org/) | Documentação e teste visual de componentes UI |
+| [QuantUX](https://www.quant-ux.com/#/) | Prototipação e teste de usabilidade open-source |
+| [Mockflow](https://www.mockflow.com/) | Wireframes e sitemaps colaborativos |
+| [POP App](https://popapp.in/) | Transforme esboços em papel em protótipos interativos |
+| [v0 by Vercel](https://v0.dev/) | Gere interfaces com IA a partir de prompts de texto |
+
+---
+
+## 💻 APIs
+
+| Recurso | Descrição |
+|---|---|
+| [Public APIs](https://github.com/public-apis/public-apis) | Lista gigante e categorizada de APIs públicas gratuitas |
+| [API List](https://apilist.fun/) | Catálogo de APIs com busca e filtros |
+| [RapidAPI](https://rapidapi.com/) | Marketplace com milhares de APIs, muitas com plano free |
+| [Zapier](https://zapier.com/) | Automação no-code entre serviços via API |
+| [mockAPI](https://mockapi.io/) | Crie APIs REST fake para prototipar rapidamente |
+| [JSON Server](https://github.com/typicode/json-server) | API REST local a partir de um arquivo JSON em segundos |
+| [Supabase](https://supabase.com/) | Backend-as-a-service open-source (banco, auth, storage) |
+| [Firebase](https://firebase.google.com/) | Backend do Google com auth, db e hosting integrados |
+
+---
+
+## 💡 Modelagem de negócio
+
+| Recurso | Descrição |
+|---|---|
+| [Sebrae Canvas](https://sebraecanvas.com/) | Business Model Canvas online e em português |
+| [Lean Canvas](https://goo.gl/3kL7si) | Adaptação do BMC focada em startups e problemas |
+| [Value Proposition Canvas](https://goo.gl/uGxHoX) | Mapeie a proposta de valor vs. dores do cliente |
+| [Experiment Board](https://goo.gl/Vr8Ysr) | Valide hipóteses de negócio de forma estruturada |
+| [Empathy Map](https://goo.gl/01Hvq4) | Entenda profundamente o perfil do seu usuário |
+| [Crunchbase](https://www.crunchbase.com/) | Dados sobre startups, investimentos e mercado |
+| [ProductHunt](https://www.producthunt.com/) | Descubra e valide ideias vendo o que está sendo lançado |
+
+---
+
+## 🎬 Gravação e edição de vídeo
+
+### Gravação de tela
+
+| Recurso | Descrição |
+|---|---|
+| [Loom](https://www.loom.com/) | Grave tela + câmera e compartilhe com um link |
+| [OBS Studio](https://obsproject.com/pt-br/download) | Gravação e streaming profissional, open-source |
+| [Peek](https://github.com/phw/peek) | GIFs animados da tela (Linux) |
+| [Vidyard](https://www.vidyard.com/) | Gravação de tela com analytics integrado |
+
+### Edição de vídeo
+
+| Recurso | Descrição |
+|---|---|
+| [DaVinci Resolve](https://www.blackmagicdesign.com/br/products/davinciresolve/) | Edição profissional gratuita com color grading avançado |
+| [CapCut](https://www.capcut.com/) | Edição de vídeo gratuita com IA integrada |
+| [Adobe Premiere](https://www.adobe.com/br/products/premiere.html) | Padrão da indústria para edição de vídeo (pago) |
+
+### Animação e apresentação
+
+| Recurso | Descrição |
+|---|---|
+| [Powtoon](https://www.powtoon.com/) | Crie vídeos animados e apresentações visuais |
+| [Canva](https://www.canva.com/) | Design e apresentações com templates prontos |
+
+---
+
+## 📊 Dashboards
+
+| Recurso | Descrição |
+|---|---|
+| [Metabase](https://www.metabase.com/) | BI open-source: conecte ao banco e crie dashboards |
+| [Google Looker Studio](https://lookerstudio.google.com/) | Dashboards gratuitos integrados ao ecossistema Google |
+| [Microsoft Power BI](https://powerbi.microsoft.com/pt-br/desktop/) | BI robusto com versão desktop gratuita |
+| [Grafana](https://grafana.com/) | Dashboards para métricas e monitoramento em tempo real |
+
+---
+
+## 👩‍💻 Ferramentas para devs
+
+### Editores e terminal
+
+| Recurso | Descrição |
+|---|---|
+| [VS Code](https://code.visualstudio.com/) | Editor de código mais popular, extensível e gratuito |
+| [Cursor](https://cursor.sh/) | Editor com IA integrada para programação assistida |
+| [Hyper](https://hyper.is/) | Terminal moderno construído com tecnologias web |
+| [Warp](https://www.warp.dev/) | Terminal com IA e autocomplete inteligente |
+
+### Ferramentas úteis
+
+| Recurso | Descrição |
+|---|---|
+| [4Devs](https://www.4devs.com.br/) | Geradores e validadores (CPF, CNPJ, dados de teste) |
+| [Regex101](https://regex101.com/) | Teste e depure expressões regulares com explicações |
+| [Beekeeper Studio](https://www.beekeeperstudio.io/) | Cliente SQL open-source, leve e bonito |
+| [GitKraken](https://www.gitkraken.com/) | Cliente Git visual com interface intuitiva |
+| [WakaTime](https://wakatime.com/) | Métricas automáticas de tempo de programação |
+| [Responsively](https://responsively.app/) | Visualize seu site em múltiplos devices simultaneamente |
+
+### Teste de API
+
+| Recurso | Descrição |
+|---|---|
+| [Insomnia](https://insomnia.rest/download) | Cliente REST/GraphQL leve e open-source |
+| [Postman](https://www.postman.com/) | Plataforma completa para desenvolvimento e teste de APIs |
+| [Hoppscotch](https://hoppscotch.io/) | Alternativa web leve e open-source ao Postman |
+
+### Deploy rápido
+
+| Recurso | Descrição |
+|---|---|
+| [Vercel](https://vercel.com/) | Deploy de front-end com preview por branch (gratuito) |
+| [Netlify](https://www.netlify.com/) | Deploy e hosting de sites estáticos e serverless |
+| [Railway](https://railway.app/) | Deploy de backends e bancos de dados com plano free |
+| [Render](https://render.com/) | Hosting com plano gratuito para web services e DBs |
+| [Fly.io](https://fly.io/) | Deploy de containers próximo aos usuários (edge) |
+
+---
+
+## 📚 Livros recomendados
+
+- **O Pitch (quase) Perfeito** — técnicas para apresentar sua ideia de forma convincente
+- **Hackathons Unboxed** — guia prático desde a ideação até a vitória
+- **Sprint** (Jake Knapp) — metodologia de 5 dias para resolver problemas e testar ideias
+- **The Lean Startup** (Eric Ries) — valide hipóteses rápido com MVPs
+
+---
+
+## 🚀 Como contribuir
+
+1. Faça o **fork** do projeto
+2. Crie uma branch para sua feature: `git checkout -b minha-dica`
+3. Atualize o README com novas dicas, ferramentas ou hackathons
+4. Faça o **commit**: `git commit -m 'feat: adiciona ferramenta X'`
+5. Envie a branch: `git push origin minha-dica`
+6. Abra uma **Pull Request**
+
+---
+
+<p align="center">
+  Imagem: <a href="https://www.freepik.com/free-vector/hackathon-isometric-landing-software-development_9292828.htm">FreePik</a>
+</p>
