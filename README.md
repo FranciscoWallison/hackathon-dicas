@@ -20,8 +20,10 @@
   <a href="#-modelagem-de-negócio">Negócio</a> •
   <a href="#-gravação-e-edição-de-vídeo">Vídeo</a> •
   <a href="#-dashboards">Dashboards</a> •
+  <a href="#-desenvolvimento-de-jogos-e-pixel-art">Jogos</a> •
   <a href="#-ferramentas-para-devs">Devs</a> •
   <a href="#-livros-recomendados">Livros</a> •
+  <a href="#-projetos-da-comunidade">Projetos</a> •
   <a href="#-como-contribuir">Contribuir</a>
 </p>
 
@@ -200,6 +202,72 @@ Algumas dicas rápidas que fazem diferença na hora H:
 
 ---
 
+## 🎮 Desenvolvimento de jogos e pixel art
+
+Ferramentas gratuitas (muitas open-source) para criar jogos, sprites, mapas, sons e músicas durante o hackathon.
+
+### Game engines
+
+| Recurso | Descrição |
+|---|---|
+| [Godot Engine](https://godotengine.org/) | Engine 2D/3D open-source, leve e com linguagem própria (GDScript) |
+| [Unity](https://unity.com/) | Engine profissional com plano pessoal gratuito, ótima para 2D e 3D |
+| [GDevelop](https://gdevelop.io/) | Engine no-code baseada em eventos, exporta para web, desktop e mobile |
+| [LÖVE (Love2D)](https://love2d.org/) | Framework minimalista para jogos 2D em Lua |
+| [Phaser](https://phaser.io/) | Framework JavaScript para jogos HTML5 rodando no navegador |
+| [Construct 3](https://www.construct.net/) | Criação de jogos no navegador sem código (versão gratuita limitada) |
+| [PICO-8](https://www.lexaloffle.com/pico-8.php) | Console de fantasia para jogos retrô (pago, mas muito popular em jams) |
+
+### Sprites, pixel art e ilustração
+
+| Recurso | Descrição |
+|---|---|
+| [LibreSprite](https://libresprite.github.io/) | Fork open-source e gratuito do Aseprite para pixel art e animação |
+| [Piskel](https://www.piskelapp.com/) | Editor de sprites e animações direto no navegador, gratuito |
+| [Krita](https://krita.org/) | Software de pintura digital open-source, ótimo para concept art |
+| [GIMP](https://www.gimp.org/) | Alternativa gratuita ao Photoshop para edição de imagens |
+| [Pixilart](https://www.pixilart.com/) | Editor de pixel art online com comunidade integrada |
+| [Inkscape](https://inkscape.org/) | Editor de vetores open-source (ótimo para arte 2D e UI) |
+
+### Mapas e tilesets
+
+| Recurso | Descrição |
+|---|---|
+| [Tiled](https://www.mapeditor.org/) | Editor de mapas em tiles open-source, padrão do mercado |
+| [LDtk](https://ldtk.io/) | Editor moderno de níveis 2D, gratuito e open-source |
+| [Kenney Assets](https://kenney.nl/) | Milhares de assets 2D/3D gratuitos em domínio público |
+| [OpenGameArt](https://opengameart.org/) | Repositório colaborativo de assets livres para jogos |
+| [itch.io Assets](https://itch.io/game-assets/free) | Enorme biblioteca de assets gratuitos e baratos |
+
+### Modelagem 3D
+
+| Recurso | Descrição |
+|---|---|
+| [Blender](https://www.blender.org/) | Software 3D completo, open-source e padrão da indústria indie |
+| [MagicaVoxel](https://ephtracy.github.io/) | Editor de voxel art gratuito, simples e poderoso |
+| [Mixamo](https://www.mixamo.com/) | Animações de personagens 3D gratuitas (Adobe) |
+
+### Áudio, música e efeitos sonoros
+
+| Recurso | Descrição |
+|---|---|
+| [Audacity](https://www.audacityteam.org/) | Editor de áudio open-source, ideal para edição rápida |
+| [LMMS](https://lmms.io/) | DAW open-source para produção musical |
+| [Bosca Ceoil](https://boscaceoil.net/) | Ferramenta simples para compor músicas de jogos |
+| [sfxr / jsfxr](https://sfxr.me/) | Geração de efeitos sonoros retrô 8-bit no navegador |
+| [Chiptone](https://sfbgames.itch.io/chiptone) | Gerador de SFX com interface visual |
+| [Freesound](https://freesound.org/) | Banco colaborativo de sons sob licenças Creative Commons |
+| [Incompetech](https://incompetech.com/) | Músicas gratuitas do Kevin MacLeod para uso em projetos |
+
+### Publicação
+
+| Recurso | Descrição |
+|---|---|
+| [itch.io](https://itch.io/) | Plataforma favorita para publicar jogos indie e participar de game jams |
+| [GitHub Pages](https://pages.github.com/) | Hospedagem gratuita para jogos HTML5 direto do repositório |
+
+---
+
 ## 👩‍💻 Ferramentas para devs
 
 ### Editores e terminal
@@ -248,6 +316,18 @@ Algumas dicas rápidas que fazem diferença na hora H:
 - **Hackathons Unboxed** — guia prático desde a ideação até a vitória
 - **Sprint** (Jake Knapp) — metodologia de 5 dias para resolver problemas e testar ideias
 - **The Lean Startup** (Eric Ries) — valide hipóteses rápido com MVPs
+
+---
+
+## 🌟 Projetos da comunidade
+
+Projetos criados por contribuidores e participantes de hackathons — inspire-se e veja o que dá para construir:
+
+| Projeto | Descrição |
+|---|---|
+| [Video Online](https://franciscowallison.github.io/video_online/) | Projeto web para reprodução de vídeos online, por [@franciscowallison](https://github.com/franciscowallison) |
+
+> 💬 Quer ver seu projeto aqui? Abra uma PR seguindo as instruções abaixo!
 
 ---
 
